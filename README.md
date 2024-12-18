@@ -1,6 +1,6 @@
 # Hi, I'm Meet Kavad! 👋
 
-I am a passionate B.Tech CSE student at IITT Surat, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
+I am a passionate B.Tech CSE student at IIIT Surat, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=meetkavad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -9,7 +9,7 @@ I am a passionate B.Tech CSE student at IITT Surat, driven by a curiosity for te
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering at IIIT Surat.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nodejs,python,c,c++,nextjs,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
