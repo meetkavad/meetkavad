@@ -10,19 +10,6 @@ I am a passionate B.Tech CSE student at IIIT Surat, driven by a curiosity for te
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## 📈 My GitHub Stats
-
-![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetkavad&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=meetkavad&theme=onedark)
-
-## 🐍 Watch my contribution graph get eaten by a snake!
-
-![snake gif](https://raw.githubusercontent.com/meetkavad/meetkavad/output/github-contribution-grid-snake.svg)
-
-## 📬 Get in Touch
-
 - Explore my [portfolio](https://meetkavad.github.io/portfolio)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/meet-kavad-375b06229)
 
